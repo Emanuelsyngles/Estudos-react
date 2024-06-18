@@ -1,6 +1,9 @@
-import "./App.css";
+// Components
 import FirstComponent from "./components/FirstComponent";
 import Escrevi from "./components/Escrevi";
+
+// style / css
+import "./App.css";
 
 function App() {
   return (
