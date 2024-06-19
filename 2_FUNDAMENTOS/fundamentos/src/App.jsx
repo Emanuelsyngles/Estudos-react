@@ -1,6 +1,7 @@
 // Components
 import FirstComponent from "./components/FirstComponent";
 import Escrevi from "./components/Escrevi";
+import TemplateExpression from "./components/TemplateExpression";
 
 // style / css
 import "./App.css";
@@ -11,6 +12,7 @@ function App() {
       <h1>Fundamentos react</h1>
       <FirstComponent />
       <Escrevi />
+      <TemplateExpression />
     </>
   );
 }
