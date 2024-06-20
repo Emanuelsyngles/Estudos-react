@@ -2,6 +2,7 @@
 import FirstComponent from "./components/FirstComponent";
 import Escrevi from "./components/Escrevi";
 import TemplateExpression from "./components/TemplateExpression";
+import Events from "./components/Events";
 
 // style / css
 import "./App.css";
@@ -15,6 +16,7 @@ function App() {
       <Escrevi />
       <TemplateExpression />
       <MyComponent />
+      <Events />
     </>
   );
 }
