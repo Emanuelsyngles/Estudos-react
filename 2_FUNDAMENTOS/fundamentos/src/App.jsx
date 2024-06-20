@@ -5,6 +5,7 @@ import TemplateExpression from "./components/TemplateExpression";
 
 // style / css
 import "./App.css";
+import MyComponent from "./components/MyComponent";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <FirstComponent />
       <Escrevi />
       <TemplateExpression />
+      <MyComponent />
     </>
   );
 }
