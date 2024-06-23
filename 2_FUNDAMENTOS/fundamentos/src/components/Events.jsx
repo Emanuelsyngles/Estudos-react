@@ -10,6 +10,9 @@ const Events = () => {
       <>
         <button onClick={handleMyEvent}>Clique aqui!</button>
       </>
+      <>
+        <button onClick={}>Clique aqui também</button>
+      </>
     </>
   );
 };
